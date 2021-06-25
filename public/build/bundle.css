@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+.main.svelte-1m2ch19.svelte-1m2ch19 {
+  background-color: #f7f8fa;
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+  color: #46444c;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.main.svelte-1m2ch19 .nav.svelte-1m2ch19 {
+  background: #5a45ff;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  position: absolute;
+}
+.main.svelte-1m2ch19 .nav .content.svelte-1m2ch19 {
+  margin-left: 12px;
+  color: white;
+}
+.main.svelte-1m2ch19 .nav .title.svelte-1m2ch19 {
+  margin-top: 4px;
+}
+.home.svelte-5iiu2o.svelte-5iiu2o {
+  max-width: 620px;
+  margin: auto;
+  height: 100vh;
+  padding: 0 30px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.home.svelte-5iiu2o .title.svelte-5iiu2o {
+  font-size: 50px;
+  line-height: 50px;
+  margin-bottom: 10px;
+  color: #17161a;
+}
+.home.svelte-5iiu2o .subtitle.svelte-5iiu2o {
+  font-size: 26px;
+  margin-bottom: 40px;
+}
